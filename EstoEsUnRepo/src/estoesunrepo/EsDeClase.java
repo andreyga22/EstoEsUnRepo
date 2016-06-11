@@ -11,7 +11,7 @@ package estoesunrepo;
  */
 public class EsDeClase {
     // tati commit
-
+int i;
 
 //prueba branch
 }
