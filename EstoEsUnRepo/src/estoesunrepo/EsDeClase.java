@@ -13,5 +13,7 @@ public class EsDeClase {
     // tati commit
 
 int variable;
+int i;
+
 //prueba branch
 }
